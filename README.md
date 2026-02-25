@@ -20,4 +20,4 @@ This project is designed to monitor air quality using sensors and AI.
 - Cloud storage
 
 ## Author
-Aadhya
+Nithisha
