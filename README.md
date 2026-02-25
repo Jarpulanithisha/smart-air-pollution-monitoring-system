@@ -1,23 +1,26 @@
-# smart-air-pollution-monitoring-system
-AI based air quality monitoring system using sensors and ML
 # Smart Air Pollution Monitoring System
 
-## Overview
-This project is designed to monitor air quality using sensors and AI.
+## Project Preview
+![Air Pollution Monitoring System](air-pollution-monitoring-system.png)
+
+## Description
+This project monitors air quality using sensors and Artificial Intelligence.
 
 ## Features
-- Detect air pollution
+- Detect pollution level
 - Real-time monitoring
 - Alert system
 
-## Technologies
+## Technologies Used
 - Python
 - Machine Learning
-- IoT Sensors
+- IoT
+- HTML, CSS
 
-## Future Scope
-- Mobile app integration
-- Cloud storage
+## Applications
+- Smart cities
+- Environmental monitoring
+- Industrial safety
 
 ## Author
 Nithisha
