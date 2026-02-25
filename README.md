@@ -1,7 +1,7 @@
 # Smart Air Pollution Monitoring System
 
 ## Project Preview
-![Air Pollution Monitoring System](air-pollution-monitoring-system.png)
+![Air Pollution Monitoring System]
 
 ## Description
 This project monitors air quality using sensors and Artificial Intelligence.
